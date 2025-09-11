@@ -2,11 +2,12 @@
 <h3 align="center">A Passionate Developer Exploring the World of Code</h3>
 
 <p align="center">
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bc425a5c4e99161dca81a32820bad4d14290d90de6308f16eb8e1d904526f5ab/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f44353631324151474f6d77664945356d6c57412f61727469636c652d636f7665725f696d6167652d736872696e6b5f3732305f313238302f302f313637343631373934373232383f653d3231343734383336343726763d6265746126743d4654555f697351365659665635445f7565464850577654385a716744654a47337972384d69386c70666b30"><img align="right" width="400" src="https://camo.githubusercontent.com/bc425a5c4e99161dca81a32820bad4d14290d90de6308f16eb8e1d904526f5ab/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f44353631324151474f6d77664945356d6c57412f61727469636c652d636f7665725f696d6167652d736872696e6b5f3732305f313238302f302f313637343631373934373232383f653d3231343734383336343726763d6265746126743d4654555f697351365659665635445f7565464850577654385a716744654a47337972384d69386c70666b30" data-canonical-src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&amp;v=beta&amp;t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" style="max-width: 100%;"></a>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlnaDVxYjB3Z2luejR2a2N0a2g2enFsc2FocmdpaTJuMWg2a3B4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
+  <img src="https://komarev.com/ghpvc/?username=PMritunjay1&label=Profile%20views&color=0e75b6&style=flat" alt="pmritunjay1" />
 </p>
 
-<p align="left"> <img src="https://github.com/PMritunjay1/PMritunjay1/blob/main/header.png" alt="dev gif" /> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlnaDVxYjB3Z2luejR2a2N0a2g2enFsc2FocmdpaTJuMWg2a3B4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding GIF"/>
+</p>
 
 ---
 
@@ -28,16 +29,17 @@
 
 ---
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:pmritunjay2005@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/D14836" alt="pmritunjay2005@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/[pmritunjay]" target="blank"><img align="center" src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="your-linkedin-username" height="30" width="40" /></a>
-<a href="https://wa.me/[9935078388]" target="blank"><img align="center" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="your-whatsapp-number" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pmritunjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="your-linkedin-username" height="30" width="40" /></a>
+<a href="https://wa.me/9935078388" target="blank"><img align="center" src="https://cdn.simpleicons.org/whatsapp/25D366" alt="your-whatsapp-number" height="30" width="40" /></a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🔗 Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="padding-right:10px;"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right:10px;"/> </a>
@@ -50,15 +52,15 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="padding-right:10px;"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="padding-right:10px;"/> </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/github/181717" alt="github" width="40" height="40" style="padding-right:10px;"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" alt="vscode" width="40" height="40" style="padding-right:10px;"/> </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="padding-right:10px;"/> </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/netlify/00C7B7" alt="netlify" width="40" height="40" style="padding-right:10px;"/> </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vercel/000000" alt="vercel" width="40" height="40" style="padding-right:10px;"/> </a>
+  <a href="https://www.mathworks.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/3588919a3653169677dc926eb819687aa9803162f421737d636056f25d1e49c5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f322f32312f4d61746c61625f4c6f676f2e706e67" alt="matlab" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="max-width: 100%; height: auto; max-height: 40px;"> </a>
 </p>
 
 ---
 
-<h3 align="center">📈 My GitHub Stats 📉</h3>
+<h3 align="center">📊 My GitHub Stats 📊</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PMritunjay1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pmritunjay1" />
 </p>
