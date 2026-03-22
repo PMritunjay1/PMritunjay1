@@ -15,7 +15,7 @@
   <em>💡 Always eager to contribute to open-source projects and connect with fellow tech enthusiasts. Let's collaborate and innovate together! 💡</em>
 </p>
 
-- 🔭 I’m currently working on **Parkify**
+- 🔭 I’m currently working on **AI-Based Multi-Agent Medical Diagnostic Support System**
 
 - 🌱 I’m currently learning **Machine Learning**.
 
