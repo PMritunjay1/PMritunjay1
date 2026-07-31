@@ -53,31 +53,18 @@ Software Engineering Co-op Intern • AI & Backend Developer • Competitive Pro
 ---
 
 
-## 👨‍💻 About Me
-
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
 ```cpp
 class MritunjayPandey {
 public:
-    string education = "B.Tech CSE @ IIIT Bhopal";
     string role = "Software Engineering Co-op Intern";
-    string location = "Bhopal, India";
-
+    string education = "IIIT Bhopal";
     vector<string> interests = {
-        "Backend Development",
-        "Artificial Intelligence",
+        "Backend",
+        "AI",
         "System Design",
-        "Distributed Systems",
         "Open Source"
-    };
-
-    vector<string> currentlyLearning = {
-        "Machine Learning",
-        "LLMs",
-        "Agentic AI",
-        "Cloud",
-        "DevOps"
     };
 
     string motto = "Build. Learn. Improve. Repeat.";
@@ -93,81 +80,220 @@ public:
 - ⚡ Competitive Programmer who enjoys solving challenging algorithmic problems
 
 ---
-## 💬 Ask Me About
 
-- C++
-- Python
-- FastAPI
-- Django
-- REST APIs
-- SQL & PostgreSQL
-- React
-- Competitive Programming
+# 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 📫 Contact
+### 🚚 HOS Route Master
 
-📧 **Email:** pmritunjay2005@gmail.com
+<img src="assets/hos-route-master.png" alt="HOS Route Master"/>
 
-🔗 **GitHub:** https://github.com/PMritunjay1
+**FMCSA-Compliant Dispatcher & ELD Simulator**
 
-💼 **LinkedIn:** https://linkedin.com/in/pmritunjay
+**Tech Stack**
 
----
+`React` `Python` `OSRM` `Leaflet` `JavaScript`
 
-## 🚀 Featured Projects
+✅ FMCSA Hours-of-Service Compliance
 
-### 🩺 Multi-Agent Diagnostic System
-AI-powered medical diagnosis platform using LLMs, Retrieval-Augmented Generation (RAG), confidence calibration, and consensus reasoning.
+✅ Interactive Route Planning
 
-### 🚛 HOS Route Master
-Full-stack FMCSA Hours of Service routing planner featuring compliance validation, OSRM routing, geocoding, and interactive maps.
+✅ Driver Log Simulation
+
+✅ Geospatial Mapping
+
+🔗 **Repository**
+
+https://github.com/PMritunjay1/hos-route-master-fullstack
+
+🌐 **Live Demo**
+
+https://hos-route-master-frontend.vercel.app/
+
+</td>
+
+<td width="50%">
 
 ### ⛽ Fuel Route Planner
-Production-ready Django REST API for fuel-optimal route planning using spatial indexing (SciPy cKDTree) and routing optimization.
+
+<img src="assets/fuel-route-planner.png" alt="Fuel Route Planner"/>
+
+**Fuel Optimization & Cost Planning System**
+
+**Tech Stack**
+
+`Python` `Django REST` `SciPy` `Leaflet`
+
+✅ Fuel Cost Prediction
+
+✅ Route Optimization
+
+✅ Spatial Search (cKDTree)
+
+✅ Fuel Stop Recommendation
+
+🔗 Repository
+
+https://github.com/PMritunjay1/fuel-route-planner
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🩺 Health Insights
+
+<img src="assets/health-insights.png" alt="Health Insights"/>
+
+**Multi-Agent AI Medical Diagnosis**
+
+**Tech Stack**
+
+`React` `Gemini` `LLMs` `RAG`
+
+✅ AI Swarm Architecture
+
+✅ Multi-Agent Consensus
+
+✅ Clinical Decision Support
+
+✅ Evidence-Based Diagnosis
+
+🔗 Repository
+
+https://github.com/PMritunjay1/Multi-agent-Diagnostic-System
+
+</td>
+
+<td width="50%">
 
 ### 🚗 Parkify
-Smart parking management system built with FastAPI, SQLAlchemy, JavaScript, and MySQL.
 
----
+<img src="assets/parkify.png" alt="Parkify"/>
 
-## 🛠 Tech Stack
+**Smart Parking Management Platform**
 
-### Languages
-C++ • Python • JavaScript • SQL • HTML • CSS
+**Tech Stack**
 
-### Frameworks
-FastAPI • Django • React • Bootstrap
+`FastAPI` `SQLAlchemy` `MySQL`
 
-### Databases
-PostgreSQL • MySQL • SQLAlchemy
+✅ Live Parking Dashboard
 
-### AI / ML
-LangChain • RAG • LLMs • Machine Learning
+✅ Vehicle Tracking
 
-### Tools
-Git • GitHub • Figma • Netlify • Vercel • MATLAB
+✅ Revenue Analytics
 
----
+✅ Interactive Parking Map
 
-## 📊 GitHub Analytics
+🔗 Repository
+
+https://github.com/PMritunjay1/Parkify
+
+🌐 Live Demo
+
+https://parkify-iiit.netlify.app/admin_dashboard.html
+
+</td>
+</tr>
+
+</table>
+
+
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,sql" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,django" />
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-0099E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
+
+### ☁️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,linux" />
+</p>
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PMritunjay1&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170"
+     src="https://github-readme-stats-sigma-five.vercel.app/api?username=PMritunjay1&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=PMritunjay1&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PMritunjay1&layout=compact&theme=tokyonight" />
+  <img height="170"
+     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PMritunjay1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PMritunjay1&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PMritunjay1&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+# 🏆 Competitive Programming
 
 <p align="center">
-⭐ Building impactful software, one project at a time.<br>
-Open to Software Engineering, AI/ML, Backend, and Full Stack opportunities.
+
+<a href="https://leetcode.com/u/pmritunjay">
+<img src="https://img.shields.io/badge/LeetCode-Solved_1800+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/pmritunjay_">
+<img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/pmritunjay">
+<img src="https://img.shields.io/badge/CodeChef-4★-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+# 📬 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/pmritunjay">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://pmritunjay1.github.io/Me/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
