@@ -89,7 +89,7 @@ public:
 
 ### 🚚 HOS Route Master
 
-<img src="assets/hos-route-master.png" alt="HOS Route Master"/>
+<img src="assets/hos-route-master.png" width="100%" alt="HOS Route Master"/>
 
 **FMCSA-Compliant Dispatcher & ELD Simulator**
 
@@ -105,13 +105,13 @@ public:
 
 ✅ Geospatial Mapping
 
-🔗 **Repository**
+<b>🔗 Repository</b><br>
+<a href="https://github.com/PMritunjay1/hos-route-master-fullstack">View Repository →</a>
 
-https://github.com/PMritunjay1/hos-route-master-fullstack
 
-🌐 **Live Demo**
 
-https://hos-route-master-frontend.vercel.app/
+<b>🌐 Live Demo</b><br>
+<a href="https://hos-route-master-frontend.vercel.app/">Open Demo →</a>
 
 </td>
 
@@ -119,7 +119,7 @@ https://hos-route-master-frontend.vercel.app/
 
 ### ⛽ Fuel Route Planner
 
-<img src="assets/fuel-route-planner.png" alt="Fuel Route Planner"/>
+<img src="assets/fuel-route-planner.png" width="100%" alt="Fuel Route Planner"/>
 
 **Fuel Optimization & Cost Planning System**
 
@@ -135,9 +135,8 @@ https://hos-route-master-frontend.vercel.app/
 
 ✅ Fuel Stop Recommendation
 
-🔗 Repository
-
-https://github.com/PMritunjay1/fuel-route-planner
+<b>🔗 Repository</b><br>
+<a href="https://github.com/PMritunjay1/fuel-route-planner">View Repository →</a>
 
 </td>
 </tr>
@@ -147,7 +146,7 @@ https://github.com/PMritunjay1/fuel-route-planner
 
 ### 🩺 Health Insights
 
-<img src="assets/health-insights.png" alt="Health Insights"/>
+<img src="assets/health-insights.png" width="100%" alt="Health Insights"/>
 
 **Multi-Agent AI Medical Diagnosis**
 
@@ -163,9 +162,9 @@ https://github.com/PMritunjay1/fuel-route-planner
 
 ✅ Evidence-Based Diagnosis
 
-🔗 Repository
+<b>🔗 Repository</b><br>
+<a href="https://github.com/PMritunjay1/Multi-agent-Diagnostic-System">View Repository →</a>
 
-https://github.com/PMritunjay1/Multi-agent-Diagnostic-System
 
 </td>
 
@@ -173,7 +172,7 @@ https://github.com/PMritunjay1/Multi-agent-Diagnostic-System
 
 ### 🚗 Parkify
 
-<img src="assets/parkify.png" alt="Parkify"/>
+<img src="assets/parkify.png" width="100%" alt="Parkify"/>
 
 **Smart Parking Management Platform**
 
@@ -189,20 +188,19 @@ https://github.com/PMritunjay1/Multi-agent-Diagnostic-System
 
 ✅ Interactive Parking Map
 
-🔗 Repository
+<b>🔗 Repository</b><br>
+<a href="https://github.com/PMritunjay1/Parkify">View Repository →</a>
+<b>🌐 Live Demo</b><br>
+<a href="https://parkify-iiit.netlify.app/admin_dashboard.html">Open Demo →</a>
 
-https://github.com/PMritunjay1/Parkify
 
-🌐 Live Demo
-
-https://parkify-iiit.netlify.app/admin_dashboard.html
 
 </td>
 </tr>
 
 </table>
 
-
+---
 
 # 🛠️ Tech Stack
 
@@ -244,24 +242,34 @@ https://parkify-iiit.netlify.app/admin_dashboard.html
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,linux" />
 </p>
 
+---
+
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170"
-     src="https://github-readme-stats-sigma-five.vercel.app/api?username=PMritunjay1&show_icons=true&theme=tokyonight&hide_border=true" />
+# 📊 GitHub Analytics
 
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=PMritunjay1&theme=tokyonight&hide_border=true"/>
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=PMritunjay1&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170"
+src="https://streak-stats.demolab.com?user=PMritunjay1&theme=tokyonight&hide_border=true" />
+
+<img height="170"
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PMritunjay1&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<p align="center">
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=PMritunjay1&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="170"
-     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PMritunjay1&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PMritunjay1&theme=tokyo-night&hide_border=true"/>
-</p>
+---
 
 # 🏆 Competitive Programming
 
@@ -280,6 +288,8 @@ https://parkify-iiit.netlify.app/admin_dashboard.html
 </a>
 
 </p>
+
+---
 
 # 📬 Connect With Me
 
